@@ -1,0 +1,12 @@
+working directory -> stagging area -> local repository 
+-> remote repository 
+
+git_course -> git add file_name ->git commit      -> git push
+
+git add . -> add everything
+
+tracked -> git knows file added to repository
+untracked
+
+changes control
+version control
