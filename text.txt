@@ -10,3 +10,7 @@ untracked
 
 changes control
 version control
+
+make changes -> git add -> git commit -> git push
+
+git pull for the updated code
