@@ -1,27 +1,19 @@
-#Heading 1
+<h1>Heading 1</h1>
 
-##Heading 2
+<h2>Heading 2</h2>
 
-'git add'
+<!-- git add' 
 'git commit -m __'
 'git push'
 
 '''
 multiple line
 use three single quote
-'''
+-->
 
-'''
+
 html
-<h3>Using HTML in readme</h3>
-'''
-
-'''
-css
-h3{
-    color: red;
-}
-'''
+<h3 style="color:red">Using HTML in readme</h3>
 
 
 1. One
