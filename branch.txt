@@ -1,4 +1,5 @@
 branch tutorial
 feature1 branch
 
-merge conflict - from GitHub
+
+merge conflict - master branch edit
