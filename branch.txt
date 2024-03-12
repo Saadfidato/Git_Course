@@ -1,2 +1,4 @@
 branch tutorial
 feature1 branch
+
+merge conflict - master branch edit
